@@ -22,7 +22,18 @@ Connection mode must be set to "under reset"
 ## STM32f051R8Tx aka stm32f0discovery
 This directory contains a configuration for the discovery board: both LEDs, pushbutton (input) and 48MHz HCLK
 
-## Dongle pinout
+## ISP
+This is the pinout for the SWD (cn3) connector on the discovery board
+```
+* . TARGET_VDD
+  . SWDCLK
+  . GND
+  . SWDIO
+  . RESET
+  . 
+```
+
+### Dongle pinout
 This is the pinout of my cheap USB dongle
 ```
       +--+
