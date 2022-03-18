@@ -40,7 +40,7 @@ This is the pinout of my cheap USB dongle
       +--+
 RESET |..| 3v3
       |..| SWDCLK
-      |..| SWDIO
+       ..| SWDIO
   GND |..| 
       |..| 
       +--+
