@@ -23,6 +23,7 @@ Connection mode must be set to "under reset"
 This directory contains a configuration for the discovery board: both LEDs, pushbutton (input) and 48MHz HCLK
 
 ## ISP
+### stm32f0discovery
 This is the pinout for the SWD (cn3) connector on the discovery board
 ```
 * . TARGET_VDD
